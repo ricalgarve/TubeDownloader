@@ -1,0 +1,16 @@
+# PyInstaller
+build/
+
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# Diversos
+.vscode/
+.idea/
